@@ -1,18 +1,5 @@
 ## data
 
-test one for data.
-
-data  | test  | train
---|---|--
-1  | 10  | +
-2  | 30  | -
-3  | 90  | *
-4  | 100  | /
-
-Week 1
-
-Fri.
-
 @Yuepei Li please join @Yijia Huang and @Long Vu and @Kamsi in contributing to the **Boa infrastructure**
 
 gitpage:
